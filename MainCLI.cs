@@ -8,7 +8,7 @@ namespace JITFreezer
     {
         private static void Main(string[] args)
         {
-            Console.Title = "JIT Freezer - Made by ZrCulillo#1998";
+            Console.Title = "JIT Freezer - Made by okie#7771";
             Console.ForegroundColor = ConsoleColor.Red;
 
             if (args.Length < 1)
